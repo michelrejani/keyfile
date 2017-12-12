@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "praqma-education",
+  "private_key_id": "3a4725ef7adb73e7bc5bcc249ed0dab75d343f38",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCvNeO1ANx08Pzt\n5Jogfabs3CM2cvPr1yQc6xx81lAyT5lcwSf8bweNUctcHUO5eTnuwKROoVgCEwV5\nASv3hJs4lV9x1nSOUwXFqjxfStPBCjk0yKoHehf4yzyA+wc1Pu/7WCyIOwXTrQYy\nbxdTWdbjRNvOqg3aOHOL9OJvs3FtWzv7kDCMNQWVuqBVw6MZBMvWhmOpxNrGS0nK\nxAP08A0kYptk9RO73Sn+ukZPKwS104UCAZVgTG+ozjufIxB7QBNc6EctuUAUnmDO\n48mERACjuM/HqDfK07auG+qdXZ0ka76mK9hU0i2934G6+Ze3ST0iUWVw5vrBomYU\nb5RkydixAgMBAAECggEAHW5HbBGTdn8+dTVnoFqK7hGCRrSjfXObiNIDbILRYMoX\nIEn/zfrWgWoCZ1wxEpgm35BzaRPYBS0tx6gnOwIG0sfgiu4zkO6oMw5H6tfWXwA5\nIMEuMmhTW4LEDIReLxb917H1dQK5FVfkiRc5C1K1cmKQK5RMFGJUImfFm27AeFZJ\n6mbBwkEfteY17JpCJao6OM/GIRJE5+4AQyULtr1eNe/JkjFNXQc6PgijGt89MdP0\nnlJ2eawfqJU6YwBaWHeIUI8vQVp95k48TPHlIZsNaYqbk+Fw2jDbXlCKriCITXpz\np6gF6vgudG+s1319Qf1ugG+SwdS4qWNw7shnv8XKOwKBgQDp3fivgyQRIejP1Qeg\nGcLElCXVq/0KVKKW6zp9EG026DrnPdMmm3h+g+uE/df6X1y4Kuswwo/54C86XAfm\nLLXJATAK2CrzR+4qnMbNXop01LoMnsmeYnSg02qNG8ElVwouE5J9b+5Cl6StYIOI\nL4QHNI70nTsroW/ZrcjRgHsvgwKBgQC/ys//bL0lQ3yFJnGOSINpZ7N+fuG1fLIN\n5oqWmy/aeM21Jz14YUWbWLIaIJv6NYIyPHECiTwcAP5Hxt+l9N9ob6kf2KMeZj97\nVu69uE6P7Cf6h40EIeGi3fxH1DUITp0PFnAQg5EcMN2nIXHGqXw/wch1j7iiXpNx\njFPwUNwMuwKBgQCs+1WFpK+ZyIYmrACu6D8LHjV5/XP2HzIABU/Gz86ojU98WVuE\nM/0FP1iGjyggdkbjpkM+Vrsd7TehqA7jrvBrE+jQLKJgPjUo6buWjjZFQk+3JAAn\nmdWAW8B1TTEpCF9sQ2fYRmFqejYBU+EWa2bx2Wtf/aiVlhxgW02twKXdNwKBgC4s\ng7r40OjBwJ7FzJz2tDySLNKNdYWeCbfzAvaTUggFAXFViyUKNhnaVraXlzW74CZ8\nCrETnRcY3h8lr/5iX87i4xK5szvEXhAxs7SVRMS9lDpqm/acuZfeXbhlTIc9de6F\n9mDja/IfiZ2NHbk4YKNw4fP7r/XXUyQJJsQ6k1+1AoGBAKhK9fL14b6+RWE1xQmN\nRfFXjx7Q15Akisa8Ah5KTqiYRnAD6aItjkXUhgAJKjKG5QYTD5dbrpRxQVxTf3/4\n+Hrb4DPsVcm+Z65+uQchcfHijaKwZFUzQb3TJnmrvnUJBoSPKjEDhi7+umnU6sss\nQJahk54MmMYv1ufw7wCdaOlQ\n-----END PRIVATE KEY-----\n",
+  "client_email": "trainee@praqma-education.iam.gserviceaccount.com",
+  "client_id": "105496165387182907246",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/trainee%40praqma-education.iam.gserviceaccount.com"
+}
